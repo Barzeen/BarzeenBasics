@@ -1,0 +1,30 @@
+body {
+    background-color:beige
+  }
+  
+  hr {
+   border-color:darkslategray;
+   border-style: none;
+   border-top-style: dotted;
+   border-width: 5px;
+   width: 10%;
+   
+  }
+  
+  img {
+    height: 150px;
+  }
+  h1 {
+      color:darkred ;
+      font-style: italic; 
+  }
+  h3{
+    color: maroon;
+  }
+  h2{
+    color: maroon;
+  }
+
+  .azam {
+      border-radius: 95%;
+  }
